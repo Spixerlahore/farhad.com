@@ -1,0 +1,122 @@
+body {
+
+font-family: "mechanismo";
+background-color: #fafafa;
+color: #1f1f1f;
+}
+
+#CenterUnderline{
+    text-decoration:underline;
+    text-align: center;
+}
+#AppsText{
+    font-weight: bolder;
+    font-size: 300%;
+   text-align: center;
+   text-decoration:underline;
+}
+
+.DefaultText{
+  font-weight: bold;
+  font-size: 100px;
+  text-decoration: underline;
+}
+
+#navigationBar{
+background-color: #f3f3f3;
+border-color: #d2d2d2;
+border-width: 1px;
+border-style: solid;
+height: 35px;
+font-size: 25px;
+
+}
+.App1{
+background-color: black ;
+border-color: #d2d2d2;
+border-width: 1px;
+border-style: solid;
+}
+#LogoI{
+  display: inline;
+  padding: 0;
+
+vertical-align: middle;
+}
+#navigationBar ul
+{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  text-align:center;
+  
+}
+.DownloaSignSection{
+  background-color: #1f1f1f;
+  border-radius: 100px;
+  border-color: #d2d2d2;
+border-width: 3px;
+border-style: solid;
+height: 400px;
+}
+.DownloadSignRight{
+  display: block;
+  margin-left: auto;
+  margin-right: 50%;
+}
+.DownloadSignLeft{
+  display: block;
+  margin-left: 50%;
+  margin-right: auto;
+  margin-bottom: 75%;
+}
+
+
+#navigationBar li {
+  display: inline;
+  padding: 15px;
+vertical-align: middle;
+
+}
+#navigationBar a{
+  text-decoration: none;
+  padding: 8px 8px 8px 8px;
+  color:#2997ff;
+  vertical-align: middle;
+}
+.Dropdown:hover{
+background-color: black;
+}
+#navigationBar a:hover{
+  color: #f3f3f3;
+background-color: #2997ff;
+}
+
+
+#GamesText{
+color: #303030;
+  font-weight: bolder;
+   font-size: 300%;
+  text-align: center;
+  text-decoration:underline;
+}
+
+#OtherText{
+    font-weight: bolder;
+    font-size: 300%;
+   text-align: center;
+   text-decoration:underline;
+}
+#imagealign{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+border-color: #d2d2d2;
+border-width: 5px;
+border-style:solid;
+}
+#imagealign:hover{
+border-width: 6px;
+border-color: #d2d2d2;
+transition: 0.3s;
+}
